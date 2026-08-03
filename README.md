@@ -6,10 +6,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jashjacob&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jashjacob&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jashjacob&theme=radical&no-frame=false&no-bg=true&margin-w=4)
----
-[![](https://visitcount.itsvg.in/api?id=jashjacob&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ## 🏆 Token Maxxxxxxxing
 [![My AI coding usage](https://srctyff5.us-east.insforge.app/functions/tokentracker-embed-svg?user_id=70e81b13-cba4-4234-abeb-54e4fa71454f&theme=dark)](https://www.tokentracker.cc/u/70e81b13-cba4-4234-abeb-54e4fa71454f?ref=readme)
